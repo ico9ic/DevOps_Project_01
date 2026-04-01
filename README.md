@@ -1,4 +1,10 @@
-# DevOps Project 1 - Git Workflow
+# Git-Based Version Control System Demo with Feature Branching
+
+##Workflow Used
+- Created feature branch
+- Made changes
+- Created Pull Request
+- Merged into main
 
 ## What I Learned
 - Git basics (init, add, commit)
