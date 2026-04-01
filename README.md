@@ -3,7 +3,7 @@
 ## Project Demo
 This repository demonstrates Git workflow on a sample web project.
 
-##Workflow Used
+## Workflow Used
 =======
 ## Workflow Used
 - Created feature branch
