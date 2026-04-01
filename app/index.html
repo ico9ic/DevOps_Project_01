@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DevOps Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>🚀 DevOps Dashboard</h1>
+
+    <div class="card">
+      <h2>Build Status</h2>
+      <p id="status">Checking...</p>
+      <button onclick="checkStatus()">Run Pipeline</button>
+    </div>
+
+    <div class="card">
+      <h2>Version</h2>
+      <p>v1.0.0</p>
+    </div>
+
+    <div class="card">
+      <h2>Last Deployment</h2>
+      <p id="deploy">Not deployed</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

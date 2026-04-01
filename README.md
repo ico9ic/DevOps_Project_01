@@ -1,5 +1,8 @@
 # Git-Based Version Control System Demo with Feature Branching
 
+## Project Demo
+This repository demonstrates Git workflow on a sample web project.
+
 ##Workflow Used
 - Created feature branch
 - Made changes
@@ -19,3 +22,7 @@
 - Version control using Git
 - Branching strategy
 - Pull request workflow
+
+## Why This Project
+This project was created to simulate real-world team collaboration using Git and GitHub workflows.
+- Followed clean commit messages and branch naming conventions
