@@ -8,3 +8,8 @@
 ## Tools Used
 - Git
 - GitHub
+
+## Features
+- Version control using Git
+- Branching strategy
+- Pull request workflow
